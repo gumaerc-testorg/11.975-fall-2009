@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Session Summaries
 uid: 583ced2c-57eb-da08-5094-6ccd89e72591
 ---
