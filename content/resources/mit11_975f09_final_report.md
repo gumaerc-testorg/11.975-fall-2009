@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 3282cf66-e7cb-cdd9-f161-ddd7f48bfde2
 resourcetype: Document
 title: "Mercado de Bazurto: \xBFC\xF3mo gestionar el cambio?"
 uid: e73e6d16-2e77-645a-4f07-b0ceb090f9a2
