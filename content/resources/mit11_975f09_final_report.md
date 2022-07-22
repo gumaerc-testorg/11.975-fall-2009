@@ -6,6 +6,7 @@ file: /courses/11-975-feeding-cities-in-the-global-south-challenges-and-opportun
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Mercado de Bazurto: \xBFC\xF3mo gestionar el cambio?"
 uid: e73e6d16-2e77-645a-4f07-b0ceb090f9a2
 ---
 Article provided for a reading assignment: "Mercado de Bazurto: Como Gestionar El Cambio?" Cartagena Practicum/Bazurto final document.
-
