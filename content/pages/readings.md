@@ -8,7 +8,7 @@ ocw_type: CourseSection
 title: Readings
 uid: 3282cf66-e7cb-cdd9-f161-ddd7f48bfde2
 ---
-Each week the students read the online daily newspaper {{% resource_link "8a134d89-81f8-437a-9e08-c45c5a31f998" "*El Universal*" %}} and prepared to talk about major events with particular relevance to Cartagena and the objectives of the Practicum.
+Each week the students read the online daily newspaper [*El Universal*](http://www.eluniversal.com.co/) and prepared to talk about major events with particular relevance to Cartagena and the objectives of the Practicum.
 
 The following readings were assigned for each week of the course. The last two sessions did not have any readings associated with them.
 
@@ -46,7 +46,7 @@ Harrison, Kelly, Donald Henley, Harold Riley, and James Shaffer. *Improving Food
 
 Savitt, Ronald. "Retail Change and Economic Development." In *Retailing Environments in Developing Countries.* Edited by John Dawson, Allan M. Frindlay, and Ronan Paddison. New York, NY: Routledge, 1990, pp 16-29. ISBN: 9780415037396.
 
-Van Wood, R., and Scott J. Vitell. "{{% resource_link "5e88985e-6b73-463d-aa79-8bd802fbde2d" "Marketing and Economic Development: Review, Synthesis and Evaluation" %}}." *Journal of Macromarketing* 6, no. 1 (1986): 28-48.
+Van Wood, R., and Scott J. Vitell. "[Marketing and Economic Development: Review, Synthesis and Evaluation](http://jmk.sagepub.com/content/6/1/28.short?rss=1&ssource=mfc)." *Journal of Macromarketing* 6, no. 1 (1986): 28-48.
 
 Mittendorf, H. "Planning of Urban Wholesale Markets for Perishable Food with Particular Reference to Developing Countries." Rome: Food and Agriculture Organization of the United Nations, 1976.
 
@@ -58,11 +58,11 @@ A discussion on informality, economic development and mobility in developing cou
 
 Castells, Manuel, and Alejandro Portes. "The World Underneath: The Origins, Dynamics and Effects of the Informal Economy." In *the Informal Economy: Studies in Advanced and Less Developed Counties*. Baltimore, MD; The Johns Hopkins University Press, 1989. ISBN: 9780801837364.
 
-Perry, G., W. F. Maloney, O. Arias, P. Fajnzylber, A. Mason, J. Saaverdra-Chanduvi. "Informality: Exit and Exclusion." World Bank Latin American and Caribbean Studies. Washington, D.C.: World Bank, 2007, (selections). ({{% resource_link "c483ad7f-5766-493a-9351-1dfb9c0c0ed0" "PDF" %}})
+Perry, G., W. F. Maloney, O. Arias, P. Fajnzylber, A. Mason, J. Saaverdra-Chanduvi. "Informality: Exit and Exclusion." World Bank Latin American and Caribbean Studies. Washington, D.C.: World Bank, 2007, (selections). ([PDF](https://openknowledge.worldbank.org/handle/10986/6730))
 
-Chen, Martha, Joann Vanek and Marilyn Carr. {{% resource_link "426d05f3-c049-4309-a6cb-a0cf5ac8eecf" "*Mainstreaming Informal Employment and Gender in Poverty Reduction*" %}}. Commonwealth Secretariat 2004.
+Chen, Martha, Joann Vanek and Marilyn Carr. [*Mainstreaming Informal Employment and Gender in Poverty Reduction*](https://www.idrc.ca/sites/default/files/openebooks/173-6/index.html). Commonwealth Secretariat 2004.
 
-Horn, Zoe Elana. "No Cushion to Fall Back On: The Global Economic Crisis and Informal Workers." Inclusive Cities Study. August 2009. ({{% resource_link "764cef6d-f242-4861-9c9a-d6b2845fd79c" "PDF" %}})
+Horn, Zoe Elana. "No Cushion to Fall Back On: The Global Economic Crisis and Informal Workers." Inclusive Cities Study. August 2009. ([PDF](http://www.inclusivecities.org/pdfs/GEC_Study.pdf))
 
 "Associations of Market Traders: Their Roles and Potential For Further Development." Agricultural Management, Marketing and Finance Service. Rome, 2005. ([PDF](ftp://ftp.fao.org/docrep/fao/009/y7064e/y7064e00.pdf))
 
@@ -74,11 +74,11 @@ What does food market modernization look like?
 
 McMichael, Phillp. "Introduction." *Food and Agrarian Orders in the World Economy*. Westport, CT: Greenwood Press, 1995. ISBN: 9780275949662.
 
-Kaynak, Erdener, and S. Tamer Cavusgil. "{{% resource_link "f503fb64-27e2-42e9-b05f-2791d84203e3" "The Evolution of Food Retailing Systems: Contrasting the Experience of Developed and Developing Countries" %}}." *Journal of the Academy of Marketing Science* 10, no. 3 (1982): 249-268.
+Kaynak, Erdener, and S. Tamer Cavusgil. "[The Evolution of Food Retailing Systems: Contrasting the Experience of Developed and Developing Countries](https://www.researchgate.net/publication/226168250_The_evolution_of_food_retailing_systems_Contrasting_the_experience_of_developed_and_developing_countries)." *Journal of the Academy of Marketing Science* 10, no. 3 (1982): 249-268.
 
-Reardon, Thomas, C. Peter Timmer, Christopher B. Barrett, and Julio Berdegue. "The Rise of Supermarkets in Africa, Asia, and Latin America." *American Journal of Agricultural Economics* 85, no. 5 (2003): 1140-1146. ({{% resource_link "7be6dcd7-4771-4cd4-b7b7-c9cbdd243fdf" "PDF" %}})
+Reardon, Thomas, C. Peter Timmer, Christopher B. Barrett, and Julio Berdegue. "The Rise of Supermarkets in Africa, Asia, and Latin America." *American Journal of Agricultural Economics* 85, no. 5 (2003): 1140-1146. ([PDF](http://www.jstor.org/discover/10.2307/1244885?uid=3737496&uid=2129&uid=2&uid=70&uid=4&sid=56314390683))
 
-Humphrey, John. "{{% resource_link "55502818-7600-49b2-8b8f-680d867d4edd" "The Supermarket Evolution in Developing Countries: Tidal Wave or Tough Competitive Struggle?" %}}" *Journal of Economic Geography* 7 (2007): 433-450.
+Humphrey, John. "[The Supermarket Evolution in Developing Countries: Tidal Wave or Tough Competitive Struggle?](http://joeg.oxfordjournals.org/content/7/4/433.abstract)" *Journal of Economic Geography* 7 (2007): 433-450.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -90,9 +90,9 @@ Tinker, Irene. "*Street Foods: Urban Food and Employment in Developing Countries
 
 Jayne, Thomas S. "Forces of Change Affecting African Food Markets: Implications for Public Policy. In *The Transformation of Agri-Food Systems: Globalization, Supply Chains and Smallholder Farmers.* Edited by Ellen B. McCullough, Prabhu L. Pingall, and Kostas G. Stamoulis. London, UK: Food and Agriculture Organization of the United Nations and Earthscan, 2008, pp. 109-139. ISBN: 9781844075690.
 
-Cadilhon, Jean-Joseph, Paule Moustier, Nigel D. Poole, Phan thi Giac Tam, and Andrew P. Fearne. "{{% resource_link "303795cc-d12c-4d51-9a5b-b136981a8648" "Traditional Vs. Modern Food Systems? Insights from Vegetable Supply Chains to Ho Chi Minh City (Vietnam)" %}}." *Development Policy Review* 24, no. 1 (2006): 31-49.
+Cadilhon, Jean-Joseph, Paule Moustier, Nigel D. Poole, Phan thi Giac Tam, and Andrew P. Fearne. "[Traditional Vs. Modern Food Systems? Insights from Vegetable Supply Chains to Ho Chi Minh City (Vietnam)](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-7679.2006.00312.x/abstract)." *Development Policy Review* 24, no. 1 (2006): 31-49.
 
-Goldman, Arieh, S. Ramaswami, and Robert E. Krider. "{{% resource_link "7efdfeef-906a-4fdd-985c-a1b11d461736" "Barriers to the Advancement of Modern Food Retail Formats: Theory and Measurement" %}}." *Journal of Retailing* 78, no. 4 (2002): 281-295.
+Goldman, Arieh, S. Ramaswami, and Robert E. Krider. "[Barriers to the Advancement of Modern Food Retail Formats: Theory and Measurement](http://journals2.scholarsportal.info/details.xqy?uri=/00224359/v78i0004/281_bttaomfrftam.xml)." *Journal of Retailing* 78, no. 4 (2002): 281-295.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -102,13 +102,13 @@ Developing policy to improve food supply
 
 Aragrande, Maurizio, and Olivio Argenti. "Studying Food and Distribution Systems to Cities in Developing Countries and Countries in Transition: Methodological and Operational Guide." *Food into Cities Collection*. Rome: Food and Agriculture Organization of the United Nations, 2001. ([PDF - 1.8MB](ftp://ftp.fao.org/docrep/fao/003/x6996e/x6996e00.pdf))
 
-UESP. "{{% resource_link "c0bc749c-c1ff-4ca9-b2bc-48cb369b4fe0" "Documento Técnico de Soporte, Plan Maestro de Abastecimiento y Seguridad Alimentaria de Bogotá. Bogotá" %}}." Unidad Ejecutiva de Servicios Públicos, Alcaldía Mayor de Bogotá, 2005.
+UESP. "[Documento Técnico de Soporte, Plan Maestro de Abastecimiento y Seguridad Alimentaria de Bogotá. Bogotá](http://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=18559)." Unidad Ejecutiva de Servicios Públicos, Alcaldía Mayor de Bogotá, 2005.
 
 Forero, Jaime. "El Sistema de Abastecimiento Alimentario de Bogotá: Análisis y Propuestas." In *Bogotá: Autonomía Agroalimentaria. Diálogos y Controversisas*. Edited by Jaime Forero, Roman Vega, Juliana Millán, Sara Granados, Bladimir Rodriguez. Bogotá: Planeta Paz, 2006.
 
-Simon, S. "{{% resource_link "ee047ba3-eca4-471d-b880-d93db7dbcf17" "Promises and Challenges of the Informal Food Sector in Developing Countries" %}}." *Food into Cities Collection*. Rome: Food and Agriculture Organization of the United Nations, 2007.
+Simon, S. "[Promises and Challenges of the Informal Food Sector in Developing Countries](http://www.fao.org/docrep/010/a1124e/a1124e00.htm)." *Food into Cities Collection*. Rome: Food and Agriculture Organization of the United Nations, 2007.
 
-Narayanan, Sudha. Case Study #6-2: "{{% resource_link "69fc4fe3-dbf4-401c-9bf1-aa6068efb8aa" "A Revolution in the Making: The Case of Agro-Food Retailing in India" %}}". In *Food Policy for Developing Countries: Case Studies*. Edited by Per Pinstrup-Andersen and Fuzhi Cheng. Ithaca: Cornell University Press, 2007.
+Narayanan, Sudha. Case Study #6-2: "[A Revolution in the Making: The Case of Agro-Food Retailing in India](http://cip.cornell.edu/DPubS?service=UI&version=1.0&verb=Display&page=record&handle=dns.gfs/1200428172)". In *Food Policy for Developing Countries: Case Studies*. Edited by Per Pinstrup-Andersen and Fuzhi Cheng. Ithaca: Cornell University Press, 2007.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -134,7 +134,7 @@ Led by Martha Isabel Bonilla, MIT Global Program Coordinator for the Green Hub I
 
 {{< tdclose >}}{{< tdopen >}}
 
-Gakenheimer, Ralph, and C. Zegras. "Personal Mobility in the Urbanized Developing World." Chapter 4 in *Mobility 2001: World Mobility at the End of the Twentieth Century and Its Sustainability*. World Business Council for Sustainable Development, Geneva, 2001, pp. 4-1-4-30. ({{% resource_link "a1c171ed-d881-48a4-b31d-0b281d20905a" "PDF - 2.0MB" %}})
+Gakenheimer, Ralph, and C. Zegras. "Personal Mobility in the Urbanized Developing World." Chapter 4 in *Mobility 2001: World Mobility at the End of the Twentieth Century and Its Sustainability*. World Business Council for Sustainable Development, Geneva, 2001, pp. 4-1-4-30. ([PDF - 2.0MB](http://web.mit.edu/aeroastro/sites/waitz/publications/WBCSD.report.pdf))
 
 Vasconcellos, Eduardo A. "The Political Issue: Agents In Urban Transport Policy" Chapter 7 and "The Institutional Issue" Chapter 8. In *Urban Transport, Environment and Equity: The Case for Developing Countries*. London: Earthscan, 2001, pp. 75-83 and 84-95. ISBN: 9781853837272.
 
@@ -148,9 +148,9 @@ A discussion on participation and challenges for planning
 
 Thompson, Phil. "Model for Organizing Communities: 2007.
 
-Umemoto, 2001. "{{% resource_link "8e6ab589-d56f-41d6-b02a-5f7a4ec68f78" "Walking in Another's Shoes: Epistemological Challenges in Participatory Planning" %}}." *Journal of Planning Education and Research* 21 (2001):17-31.
+Umemoto, 2001. "[Walking in Another's Shoes: Epistemological Challenges in Participatory Planning](http://dx.doi.org/10.1177/0739456X0102100102)." *Journal of Planning Education and Research* 21 (2001):17-31.
 
-Berry, Jeffrey M., Ken Thomson, and Kent Portney. "The Case for Strong Democracy." Chapter 12 in {{% resource_link "36ca4fa8-e3d6-42e3-9755-fed588889dd3" "*The Rebirth of Urban Democracy*" %}}. Washington, DC: The Brookings Institution Press, 1993, pp. 283-299. ISBN: 9780815709275.
+Berry, Jeffrey M., Ken Thomson, and Kent Portney. "The Case for Strong Democracy." Chapter 12 in [*The Rebirth of Urban Democracy*](https://www.brookings.edu/book/the-rebirth-of-urban-democracy/). Washington, DC: The Brookings Institution Press, 1993, pp. 283-299. ISBN: 9780815709275.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
